@@ -1,0 +1,24 @@
+body {
+    font-size: 24px;
+}
+.xsmall {
+    font-size: x-small;
+}
+.medium {
+    font-size: medium;
+}
+.xlarge {
+    font-size: xx-large;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bi {
+    font-weight: bold;
+    font-style: italic;
+}
+.italic {
+        font-style: italic;
+}
